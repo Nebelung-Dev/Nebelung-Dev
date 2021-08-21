@@ -18,7 +18,7 @@ I beat hollow knight
 
 My discord is **Nebelung#2695** if you want to talk
 
-**Want to have unblocked games?**
+**Want unblocked games?**
 
 [Fog Network](https://github.com/FogNetwork)
 
