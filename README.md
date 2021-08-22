@@ -1,15 +1,15 @@
 # Nebelung
-Hello I am called Nebelung, you may have seen me fail
+Hello I am called Nebelung, you may have seen me around
 
 I was also known as Pers0n
 
 **About Me:**
 
-I have many projects that I never finish :confused:
+I have some projects that I never finished :confused:
 
-Proxy making is hard, more of a front end person
+Front end is cool
 
-I beat hollow knight
+I play hollow knight
 
 **Projects:**
 
