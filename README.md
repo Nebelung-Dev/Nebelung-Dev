@@ -1,20 +1,19 @@
 # Nebelung
-Hello I am called Nebelung, you may have seen me around
+I am called Nebelung, you may have seen me around 
 
 I was also known as Pers0n
 
 **About Me:**
 
-I have some projects that I never finished :confused:
+Too many projects :confused:
 
-Front end is cool
+Css is cool
 
 I play hollow knight
 
 **Projects:**
 
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Proxy site
-- [Smoke](https://github.com/FogNetwork/Smoke) - My first proxy (caracal.js helped me :D)
 
 My discord is **Nebelung#2695** if you want to talk
 
