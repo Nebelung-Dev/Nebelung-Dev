@@ -3,15 +3,15 @@ I am called Nebelung, you may have seen me around
 
 I was also known as Pers0n
 
-**About Me:**
+**About Me**
 
-Too many projects :confused:
+- Too many projects :confused:
 
-Css is cool
+- Css is cool
 
-I play hollow knight
+- I play hollow knight
 
-**Projects:**
+**Projects**
 
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Proxy site
 
