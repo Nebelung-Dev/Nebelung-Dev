@@ -4,7 +4,7 @@ I am Nebelung, I program cool stuff, also known as Pers0n
 **About Me**
 
 - Too many projects :confused:
-- Style is important (aka css)
+- Style is good
 - I play hollow knight!
 
 **Projects**
