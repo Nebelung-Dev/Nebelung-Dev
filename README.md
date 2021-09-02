@@ -1,7 +1,5 @@
-# Nebelung
-I am Nebelung, I program cool stuff
-
-Also known as Pers0n
+## Hi there
+I am Nebelung, I program cool stuff, also known as Pers0n
 
 **About Me**
 
@@ -15,6 +13,8 @@ Also known as Pers0n
 - Smoke - Web proxy with EnderKingJ
 
 My discord is **Nebelung#2695** if you want to talk
+
+Check out my [Github](https://github.com/Nebelung-Dev) [Replit](https://replit.com/@Nebelung) and [Discord](https://discordapp.com/users/832290966294888458)
 
 **Want unblocked games?**
 
