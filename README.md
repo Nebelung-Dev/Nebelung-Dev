@@ -1,19 +1,18 @@
 # Nebelung
-I am called Nebelung, you may have seen me around 
+I am Nebelung, I program cool stuff
 
-I was also known as Pers0n
+Also known as Pers0n
 
 **About Me**
 
 - Too many projects :confused:
-
-- Css is cool
-
-- I play hollow knight
+- Style is important (aka css)
+- I play hollow knight!
 
 **Projects**
 
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Proxy site
+- Smoke - Web proxy with EnderKingJ
 
 My discord is **Nebelung#2695** if you want to talk
 
