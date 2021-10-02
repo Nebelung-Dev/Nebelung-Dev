@@ -10,7 +10,7 @@ I am Nebelung, I program cool stuff, also known as Pers0n
 **Projects**
 
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Proxy site
-- Smoke - Web proxy with EnderKingJ
+- [Smoke](https://github.com/FogNetwork/Smoke) - Web proxy with EnderKingJ
 
 My discord is **Nebelung#1335** if you want to talk
 
