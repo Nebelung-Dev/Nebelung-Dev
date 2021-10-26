@@ -1,5 +1,5 @@
 ## Hi there
-I am Nebelung, I program cool stuff, also known as Pers0n
+I'm Nebelung, and I program awesome things
 
 **About Me**
 
