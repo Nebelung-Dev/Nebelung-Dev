@@ -10,7 +10,6 @@ I'm Nebelung, and I program awesome things
 **Projects**
 
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Proxy site
-- [Smoke](https://github.com/FogNetwork/Smoke) - Web proxy with EnderKingJ
 
 My discord is **Nebelung#1335** if you want to talk
 
