@@ -10,6 +10,7 @@ I'm Nebelung, and I program awesome things
 **Projects**
 
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Proxy site
+- [Shadow](https://github.com/FogNetwork/Shadow) - Proxy site
 - Avo - Bookmarklet
 
 My discord is **Nebelung#1335** if you want to talk
