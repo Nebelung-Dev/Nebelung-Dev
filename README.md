@@ -3,9 +3,9 @@ I'm Nebelung, and I program awesome things
 
 **About Me**
 
-- Right now I'm working on a bunch of front-end stuff
-- Style is always good
-- Playing hollow knight
+- I make proxy-sites
+- Fog Network is my main thing
+- Play Hollow Knight and Terraria
 
 **Projects**
 
