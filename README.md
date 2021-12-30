@@ -9,8 +9,10 @@ I'm Nebelung, and I program awesome things
 
 **Projects**
 
-- [Tsunami](https://github.com/FogNetwork/Tsunami) - Proxy site
+- [Tsunami](https://github.com/FogNetwork/Tsunami) - Main Proxy site
 - [Shadow](https://github.com/FogNetwork/Shadow) - Proxy site
+- [Riptide](https://github.com/FogNetwork/Riptide) - Proxy Site
+- [Mist](https://github.com/FogNetwork/Mist) - Youtube Downloader
 - [Avo](https://github.com/FogNetwork/Avo) - Dev Tools Bookmarklet
 
 My discord is **Nebelung#1335** if you want to talk
