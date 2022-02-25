@@ -1,23 +1,26 @@
 ## Hi there
-I'm Nebelung, and I program awesome things
+I'm Nebelung, a javascript developer who creates proxy services
 
 **About Me**
 
-- I make proxy-sites
-- Fog Network is my main thing
-- Play Hollow Knight and Terraria
+- I am currently developing a proxy
+- Most Of My Projects Can Be Found At Fog Network
+- Plays Hollow Knight And Terraria
 
 **Projects**
 
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Main Proxy site
 - [Shadow](https://github.com/FogNetwork/Shadow) - Proxy site
 - [Riptide](https://github.com/FogNetwork/Riptide) - Proxy Site
-- [Mist](https://github.com/FogNetwork/Mist) - Youtube Downloader
-- [Avo](https://github.com/FogNetwork/Avo) - Dev Tools Bookmarklet
+- Eclipse - Web Proxy
+- Nightmare - Online OS project
 
-My discord is **Nebelung#1335** if you want to talk
+**Contact**
 
-Check out my [Github](https://github.com/Nebelung-Dev) [Replit](https://replit.com/@Nebelung) and [Discord](https://discordapp.com/users/887118260963782686)
+- [Email - nebelung@mailfence.com](mailto:nebelung@mailfence.com)
+- [Github - Nebelung-Dev](https://github.com/Nebelung-Dev)
+- [Discord - Nebelung#1335](https://discordapp.com/users/887118260963782686)
+- [Matrix - @nebelung:matrix.org](https://matrix.to/#/@nebelung:matrix.org)
 
 **Proxies**
 
