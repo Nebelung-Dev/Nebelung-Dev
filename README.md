@@ -28,4 +28,8 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 [Titanium Network](https://github.com/titaniumnetwork-dev)
 
+[SystemYA](https://github.com/sysce)
+
+[Tomp](https://github.com/tomphttp)
+
 [Ludicrous](https://github.com/LudicrousDevelopment)
