@@ -33,3 +33,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 [Tomp](https://github.com/tomphttp)
 
 [Ludicrous](https://github.com/LudicrousDevelopment)
+
+[Nebula Services](https://github.com/NebulaServices)
+
+[Dynamic Interception Proxy](https://github.com/Dynamic-Interception-Proxy)
