@@ -26,7 +26,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 [Fog Network](https://github.com/FogNetwork)
 
-[Titanium Network](https://github.com/Titanium-Network)
+[Titanium Network](https://github.com/titaniumnetwork-dev)
 
 [SystemYA](https://github.com/sysce)
 
