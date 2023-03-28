@@ -24,6 +24,8 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **Proxies**
 
+[Metallic](https://github.com/Metallic-Web/Metallic)
+
 [Fog Network](https://github.com/FogNetwork)
 
 [Titanium Network](https://github.com/titaniumnetwork-dev)
