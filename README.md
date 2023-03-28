@@ -3,17 +3,15 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **About Me**
 
-- I am currently developing a proxy
-- Most Of My Projects Can Be Found At Fog Network
-- Plays Hollow Knight And Terraria
+- I am currently working on Metallic and Eclipse as well as other projects
+- Owner of the late Fog Network
+- Waiting for Silksong
 
-**Projects**
+**Main Projects**
 
-- [Tsunami](https://github.com/FogNetwork/Tsunami) - Main Proxy site
-- [Shadow](https://github.com/FogNetwork/Shadow) - Proxy site
-- [Riptide](https://github.com/FogNetwork/Riptide) - Proxy Site
+- [Metallic](https://github.com/Metallic-Web/Metallic) - Latest proxy site
+- [Tsunami](https://github.com/FogNetwork/Tsunami) - Old proxy site
 - Eclipse - Web Proxy
-- Nightmare - Online OS project
 
 **Contact**
 
