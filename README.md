@@ -17,7 +17,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 - [Email - nebelung@mailfence.com](mailto:nebelung@mailfence.com)
 - [Github - Nebelung-Dev](https://github.com/Nebelung-Dev)
-- [Discord - Nebelung#1335](https://discordapp.com/users/887118260963782686)
+- [Discord - nebelung_](https://discordapp.com/users/887118260963782686)
 - [Matrix - @nebelung:matrix.org](https://matrix.to/#/@nebelung:matrix.org)
 
 **Proxies**
@@ -28,12 +28,6 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 [Titanium Network](https://github.com/titaniumnetwork-dev)
 
-[SystemYA](https://github.com/sysce)
-
-[Tomp](https://github.com/tomphttp)
-
-[Ludicrous](https://github.com/LudicrousDevelopment)
-
 [Nebula Services](https://github.com/NebulaServices)
 
-[Dynamic Interception Proxy](https://github.com/Dynamic-Interception-Proxy)
+[Tomp](https://github.com/tomphttp)
