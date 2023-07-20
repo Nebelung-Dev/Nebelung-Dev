@@ -3,7 +3,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **About Me**
 
-- I am currently working on Metallic and Eclipse as well as other projects
+- I am currently working on Cobalt, Metallic, and Eclipse as well as other projects
 - Owner of the late Fog Network
 - Waiting for Silksong
 
@@ -21,6 +21,8 @@ I'm Nebelung, a javascript developer who creates proxy services
 - [Matrix - @nebelung:matrix.org](https://matrix.to/#/@nebelung:matrix.org)
 
 **Proxies**
+
+[Cobalt](https://github.com/Cobalt-Web/Cobalt)
 
 [Metallic](https://github.com/Metallic-Web/Metallic)
 
