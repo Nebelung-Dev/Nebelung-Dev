@@ -17,7 +17,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 - [Email - nebelung@mailfence.com](mailto:nebelung@mailfence.com)
 - [Github - Nebelung-Dev](https://github.com/Nebelung-Dev)
-- [Discord - nebelung_](https://discordapp.com/users/887118260963782686)
+- [Discord - nebelungdev](https://discordapp.com/users/887118260963782686)
 - [Matrix - @nebelung:matrix.org](https://matrix.to/#/@nebelung:matrix.org)
 
 **Proxies**
