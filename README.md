@@ -22,11 +22,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **Proxies**
 
-[Cobalt](https://github.com/Cobalt-Web/Cobalt)
-
-[Metallic](https://github.com/Metallic-Web/Metallic)
-
-[Fog Network](https://github.com/FogNetwork)
+[Cog Network](https://github.com/cognetwork-dev)
 
 [Titanium Network](https://github.com/titaniumnetwork-dev)
 
