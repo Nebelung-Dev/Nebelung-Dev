@@ -19,6 +19,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 - [Github - Nebelung-Dev](https://github.com/Nebelung-Dev)
 - [Discord - nebelungdev](https://discordapp.com/users/887118260963782686)
 - [Matrix - @nebelung:matrix.org](https://matrix.to/#/@nebelung:matrix.org)
+- [Itch - nebelung-dev](https://nebelung-dev.itch.io)
 
 **Proxies**
 
