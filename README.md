@@ -3,13 +3,14 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **About Me**
 
-- I am currently working on Cobalt, Metallic, and Eclipse as well as other projects
+- I am currently working on Warp, Cobalt, Metallic, and Eclipse as well as other projects
 - Owner of Cog Network
 - Still waiting for Silksong
 
 **Main Projects**
-
-- [Metallic](https://github.com/cognetwork-dev/Metallic) - Latest proxy site
+- Warp - Upcoming proxy site.
+- [Cobalt](https://github.com/cognetwork-dev/Cobalt) - Old proxy site
+- [Metallic](https://github.com/cognetwork-dev/Metallic) - Old proxy site
 - [Tsunami](https://github.com/FogNetwork/Tsunami) - Old proxy site
 - Eclipse - Web Proxy
 
