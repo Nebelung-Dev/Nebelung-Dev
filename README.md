@@ -3,7 +3,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **About Me**
 
-- I am currently working on Warp, Cobalt, Metallic, and Eclipse as well as other projects
+- I am currently working on nano, and Eclipse as well as other projects
 - Owner of Cog Network
 - Still waiting for Silksong
 
@@ -55,7 +55,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 - [Matrix - @nebelung:matrix.org](https://matrix.to/#/@nebelung:matrix.org)
 - [Itch - nebelung-dev](https://nebelung-dev.itch.io)
 
-**Proxies**
+**Related**
 
 [Cog Network](https://github.com/cognetwork-dev)
 
@@ -63,4 +63,4 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 [Nebula Services](https://github.com/NebulaServices)
 
-[Tomp](https://github.com/tomphttp)
+[MercuryWorkshop](https://github.com/MercuryWorkshop)
