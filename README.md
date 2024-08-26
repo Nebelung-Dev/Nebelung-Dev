@@ -20,7 +20,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **Proxies**
 
-- [Eclipse [IN PROGRESS]](https://github.com/Eclipse-Proxy) - Interception proxy.
+- [Eclipse [IN PROGRESS]](https://github.com/Eclipse-Proxy/Eclipse) - Interception proxy.
 - [Eclipse [ARCHIVED]](https://github.com/cognetwork-dev/Eclipse) - Original version of eclipse.
 - [Solar Eclipse [ARCHIVED]](https://github.com/FogNetwork/Solar-Eclipse) - Original eclipse but with a backend.
 
