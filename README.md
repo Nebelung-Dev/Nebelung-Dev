@@ -34,7 +34,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **Projects**
 
--[Proxy Dispenser](https://github.com/Nebelung-Dev/Proxy-Dispenser) - The proxy bot used in TN.
+- [Proxy Dispenser](https://github.com/Nebelung-Dev/Proxy-Dispenser) - The proxy bot used in TN.
 - [Chemical](https://github.com/chemicaljs/chemical) - Easy proxy backend.
 - [Cog Dispenser](https://github.com/cognetwork-dev/Cog-Dispenser) - Discord proxy bot.
 - [Ingot [ARCHIVED]](https://github.com/FogNetwork/Ingot) - LTBEEF frontend.
