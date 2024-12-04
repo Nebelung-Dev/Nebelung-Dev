@@ -55,6 +55,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 - [Discord - nebelungdev](https://discordapp.com/users/887118260963782686)
 - [Matrix - @nebelung:matrix.org](https://matrix.to/#/@nebelung:matrix.org)
 - [Itch - nebelung-dev](https://nebelung-dev.itch.io)
+- [Bluesky - @nebelungdev.bsky.social](https://bsky.app/profile/nebelungdev.bsky.social)
 
 **Related**
 
