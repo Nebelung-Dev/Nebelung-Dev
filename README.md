@@ -9,7 +9,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **Proxy Sites**
 
-- [nano.](https://github.com/titaniumnetwork-dev/nano) - Main proxy site. Proxathon 2024 winner.
+- [nano.](https://github.com/titaniumnetwork-dev/nano) - Proxathon 2024 winner.
 - [Cobalt](https://github.com/cognetwork-dev/Cobalt) - Proxathon 2023.
 - [Metallic](https://github.com/cognetwork-dev/Metallic) - Proxathon 2022.
 - [Galaxy](https://github.com/cognetwork-dev/Galaxy) - Another proxy site.
@@ -53,9 +53,6 @@ I'm Nebelung, a javascript developer who creates proxy services
 - [Email - nebelung@mailfence.com](mailto:nebelung@mailfence.com)
 - [Github - Nebelung-Dev](https://github.com/Nebelung-Dev)
 - [Discord - nebelungdev](https://discordapp.com/users/887118260963782686)
-- [Matrix - @nebelung:matrix.org](https://matrix.to/#/@nebelung:matrix.org)
-- [Itch - nebelung-dev](https://nebelung-dev.itch.io)
-- [Bluesky - @nebelungdev.bsky.social](https://bsky.app/profile/nebelungdev.bsky.social)
 
 **Related**
 
