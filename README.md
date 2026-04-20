@@ -3,9 +3,9 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **About Me**
 
-- I am currently working on nano, and Eclipse as well as other projects
+- I am currently basicaly retired 😭
 - Owner of Cog Network
-- Still waiting for Silksong
+- Silksong is finally out!!! I've been waiting so long
 
 **Proxy Sites**
 
@@ -13,6 +13,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 - [Cobalt](https://github.com/cognetwork-dev/Cobalt) - Proxathon 2023.
 - [Metallic](https://github.com/cognetwork-dev/Metallic) - Proxathon 2022.
 - [Galaxy](https://github.com/cognetwork-dev/Galaxy) - Another proxy site.
+- [Warp](https://github.com/warp-app/Warp) - Scrapped proxy site
 - [Tsunami [ARCHIVED]](https://github.com/FogNetwork/Tsunami) - First proxy site.
 - [Shadow [ARCHIVED]](https://github.com/FogNetwork/Shadow) - Old proxy site.
 - [Riptide [ARCHIVED]](https://github.com/FogNetwork/Riptide) - Tabbed proxy site.
@@ -34,7 +35,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **Projects**
 
-- [Proxy Dispenser](https://github.com/titaniumnetwork-dev/Proxy-Dispenser) - The proxy bot used in TN.
+- [Proxy Dispenser](https://github.com/titaniumnetwork-dev/Proxy-Dispenser) [Origional Code](https://github.com/Nebelung-Dev/Proxy-Dispenser) - The proxy bot used in TN.
 - [Chemical](https://github.com/chemicaljs/chemical) - Easy proxy backend.
 - [Cog Dispenser](https://github.com/cognetwork-dev/Cog-Dispenser) - Discord proxy bot.
 - [Ingot [ARCHIVED]](https://github.com/FogNetwork/Ingot) - LTBEEF frontend.
