@@ -51,7 +51,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **Contact**
 
-- [Email - nebelung@mailfence.com](mailto:nebelung@mailfence.com)
+- [Email - nebelungdev@gmail.com](mailto:nebelungdev@gmail.com)
 - [Github - Nebelung-Dev](https://github.com/Nebelung-Dev)
 - [Discord - nebelungdev](https://discordapp.com/users/887118260963782686)
 
