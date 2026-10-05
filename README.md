@@ -1,12 +1,6 @@
 ## Hi there
 I'm Nebelung, a javascript developer who creates proxy services
 
-**About Me**
-
-- I am currently basicaly retired 😭
-- Owner of Cog Network
-- Silksong is finally out!!! I've been waiting so long
-
 **Proxy Sites**
 
 - [nano.](https://github.com/titaniumnetwork-dev/nano) - Proxathon 2024 winner.
@@ -27,6 +21,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **Games Sites**
 
+- [Obsidian](https://github.com/titaniumnetwork-dev/Obsidian) - Obsidian is your ultimate web-based game library
 - [3kh0 v4 [ARCHIVED]](https://gitlab.com/3kh0/website-v4) - Complete rewrite of 3kh0.
 
 **Web OS'**
@@ -57,10 +52,10 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 **Related**
 
-[Cog Network](https://github.com/cognetwork-dev)
-
 [Titanium Network](https://github.com/titaniumnetwork-dev)
+
+[MercuryWorkshop](https://github.com/MercuryWorkshop)
 
 [Nebula Services](https://github.com/NebulaServices)
 
-[MercuryWorkshop](https://github.com/MercuryWorkshop)
+[Cog Network](https://github.com/cognetwork-dev)
