@@ -5,7 +5,7 @@ I'm Nebelung, a javascript developer who creates proxy services
 
 - [nano.](https://github.com/titaniumnetwork-dev/nano) - Proxathon 2024 winner.
 - [Cobalt](https://github.com/cognetwork-dev/Cobalt) - Proxathon 2023.
-- [Metallic](https://github.com/cognetwork-dev/Metallic) - Proxathon 2022.
+- [Metallic](https://github.com/Metallic-Web/Metallic) - Proxathon 2022.
 - [Galaxy](https://github.com/cognetwork-dev/Galaxy) - Another proxy site.
 - [Warp](https://github.com/warp-app/Warp) - Scrapped proxy site
 - [Tsunami [ARCHIVED]](https://github.com/FogNetwork/Tsunami) - First proxy site.
